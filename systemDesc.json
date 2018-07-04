@@ -1,0 +1,18 @@
+{
+	"siteID":	"001",
+	"siteName":	"玄武区",
+	"siteCountry":	"中国",
+	"siteProvince":	"江苏",
+	"siteCity":	"南京",
+	"siteLongitude":	1.111111,
+	"siteLatitude":	2.222222,
+	"siteTimeZone":	"aaaa",
+	"plantName":	"bbbb",
+	"plantNo":	"002",
+	"equipmentName":	"设备名称",
+	"equipmentNo":	"003",
+	"dataWatchName":	"cccc",
+	"dataWatchAssetID":	"004",
+	"dataWachAddedBy":	"张三",
+	"dataWachAddedDate":	"2018/07/05"
+}
